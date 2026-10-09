@@ -1,7 +1,5 @@
 ## Hi, I'm Christina Ahn (안윤선)! 👋
 
-**"사용자 흐름을 구조적으로 설계하는 프론트엔드 개발자"**
-
 📫 **Contact**: yoonsun0401@naver.com  
 📝 **Blog**: [velog.io/@christina-ahn](https://velog.io/@christina-ahn)
 
