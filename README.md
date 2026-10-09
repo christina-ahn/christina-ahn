@@ -32,5 +32,3 @@ UI 구현 감각과 비즈니스 로직을 함께 다루는 프론트엔드 개�
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-                                                                                             |
